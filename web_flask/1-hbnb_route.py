@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-"
-# Flask application to print Hello HBNB"
 
+"""
+Flask application to print Hello HBNB
+"""
 
 from flask import Flask
 
